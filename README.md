@@ -1,8 +1,8 @@
 ### Hi there 👋, i am chengzi.   
 
-My blog [ichengzi.github.io](https://ichengzi.github.io/)
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ichengzi&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
+My blog [ichengzi.github.io](https://ichengzi.github.io/)
 
 <!--
 Here are some ideas to get you started:
